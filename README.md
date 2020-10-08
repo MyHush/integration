@@ -17,8 +17,14 @@ cd hush3
 ./build.sh -j4
 ```
 
+More details can be found [here](https://github.com/MyHush/hush3/blob/master/INSTALL.md)
+
 # Installing Hush from a binary
 
 You can also install a binary from an [official release](https://github.com/MyHush/hush3/releases/tag/v3.5.0)
+
+3.5.0 is our latest mandatory release, [3.5.1](https://github.com/MyHush/hush3/releases/tag/v3.5.1) is an optional update that has some new features.
+
+
 
 
