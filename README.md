@@ -5,7 +5,7 @@ will be useful to any service provider adding Hush, such as a Discord Tipbot ser
 
 # Installing Hush from source
 
-On Ubuntu/Linux systems, you can install Hush with these commands:
+On Ubuntu/Linux systems, you can install Hush from [source](https://github.com/MyHush/hush3) with these commands:
 
 ```
 # install build depedencies
