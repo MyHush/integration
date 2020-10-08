@@ -25,7 +25,11 @@ You can also install a binary from an [official release](https://github.com/MyHu
 
 3.5.0 is our latest mandatory release, [3.5.1](https://github.com/MyHush/hush3/releases/tag/v3.5.1) is an optional update that has some new features.
 
-## Config changes for exchanges and pools
+# Terminology
+
+We have a document that explains a lot of terminology [here](http://github.com/myhush/terminology)
+
+# Config changes for exchanges and pools
 
 The default location on Linux for the HUSH config file is `~/.komodo/HUSH3/HUSH3.conf` . This file will have a username and password for RPC
 access, so don't show the contents to untrusted people.
@@ -36,7 +40,7 @@ makes future transactions fast by spending small amounts of time consolidating f
 
 Here is an [example config file](https://gist.github.com/leto/2c3401df2f21a2ed5639bdffe0ff8717) for HUSH which is recommended for exchanges and mining pools.
 
-## How Shielded Addresses (zaddrs) Are Different
+# How Shielded Addresses (zaddrs) Are Different
 
   * Change from a zaddr goes back to itself! Not a different address, like in transparent addresses (taddrs).
   * Making zaddr transactions are slower, taking a few seconds instead of a few milliseconds
@@ -44,7 +48,7 @@ Here is an [example config file](https://gist.github.com/leto/2c3401df2f21a2ed56
   * Shielded transactions are larger than transparent transactions, because more data is stored
   
   
-## GUI wallets
+# GUI wallets
 
 Hush full node GUI wallet [SilentDragon](https://github.com/MyHush/SilentDragon/releases)
 
