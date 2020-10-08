@@ -17,4 +17,8 @@ cd hush3
 ./build.sh -j4
 ```
 
+# Installing Hush from a binary
+
+You can also install a binary from an [official release](https://github.com/MyHush/hush3/releases/tag/v3.5.0)
+
 
