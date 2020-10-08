@@ -34,4 +34,10 @@ An advanced feature we suggest exchanges+pools use is called `consolidation=1` w
 This feature will always make small transactions in the background, "consolidating" funds into very efficient amounts. This
 makes future transactions fast by spending small amounts of time consolidating funds in the background.
 
-Here is an [example config file](https://gist.github.com/leto/2c3401df2f21a2ed5639bdffe0ff8717) for HUSH
+Here is an [example config file](https://gist.github.com/leto/2c3401df2f21a2ed5639bdffe0ff8717) for HUSH which is recommended for exchanges and mining pools.
+
+## How Shielded Addresses (zaddrs) Are Different
+
+  * Change from a zaddr goes back to itself! Not a different address, like in transparent addresses (taddrs).
+  * Making zaddr transactions are slower, taking a few seconds instead of a few milliseconds
+  
