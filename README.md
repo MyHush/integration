@@ -50,4 +50,6 @@ Hush full node GUI wallet [SilentDragon](https://github.com/MyHush/SilentDragon/
 
 Hush lite wallet [SilentDragonLite](https://github.com/MyHush/SilentDragonLite/releases)
 
+Android wallet (pairs with SilentDragon or SilentDragonLite) [SilentDragonAndroid](https://github.com/MyHush/SilentDragonAndroid/releases)
+
 
