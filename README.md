@@ -46,6 +46,8 @@ Here is an [example config file](https://gist.github.com/leto/2c3401df2f21a2ed56
   
 ## GUI wallets
 
-The latest Hush full node GUI wallet is [SilentDragon 1.0.0](https://github.com/MyHush/SilentDragon/releases/tag/v1.0.0)
+Hush full node GUI wallet [SilentDragon](https://github.com/MyHush/SilentDragon/releases)
+
+Hush lite wallet [SilentDragonLite](https://github.com/MyHush/SilentDragonLite/releases)
 
 
