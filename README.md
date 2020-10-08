@@ -42,3 +42,10 @@ Here is an [example config file](https://gist.github.com/leto/2c3401df2f21a2ed56
   * Making zaddr transactions are slower, taking a few seconds instead of a few milliseconds
   * Shielded transactions do not show the sender address, receiver address or amounts on the public explorer. You will need to use local RPC methods such as `z_viewtransaction` to see those details
   * Shielded transactions are larger than transparent transactions, because more data is stored
+  
+  
+## GUI wallets
+
+The latest Hush full node GUI wallet is [SilentDragon 1.0.0](https://github.com/MyHush/SilentDragon/releases/tag/v1.0.0)
+
+
