@@ -41,5 +41,6 @@ Here is an [example config file](https://gist.github.com/leto/2c3401df2f21a2ed56
   * Change from a zaddr goes back to itself! Not a different address, like in transparent addresses (taddrs).
   * Making zaddr transactions are slower, taking a few seconds instead of a few milliseconds
   * Shielded transactions do not show the sender address, receiver address or amounts on the public explorer. You will need to use local RPC methods such as `z_viewtransaction` to see those details
+  * Shielded transactions are larger than transparent transactions, partially because there is more data and partially because the 512 byte encrypted memo field takes up a large % of all shielded transaction size.
   
   
